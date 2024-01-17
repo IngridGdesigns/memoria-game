@@ -8,7 +8,8 @@ body {
   font-size: 1.5em;
   text-align: center;
   color: #3f87a6;
-  background: linear-gradient(0.25turn, coral, #ebf8e1, coral);
+  background: lightskyblue;
+  /* background: linear-gradient(0.25turn, coral, #ebf8e1, coral); */
 }
 
 code {
